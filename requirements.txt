@@ -1,0 +1,7 @@
+customtkinter
+# selenium
+# webdriver-manager
+# moviepy # Already removed
+# requests # yt-dlp might have used it, tiktok-scraper will manage its own
+# yt-dlp
+tiktok-scraper 
