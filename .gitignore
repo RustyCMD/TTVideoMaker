@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Output directories for this project
+videos/
+edited_videos/
+
+# Optional: User-specific data file
+# If you don't want to commit the list of processed videos:
+# data/processed_videos.txt
+
+# IDE / Editor specific
+.vscode/
+.idea/
+*.DS_Store 
